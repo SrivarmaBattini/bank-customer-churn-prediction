@@ -94,7 +94,10 @@ This project focuses on predicting whether a customer will leave the bank (churn
 - Resample and SMOTE for Class Imbalance  
 - GridSearchCV for Hyperparameter Tuning  
 - StratifiedKFold and Cross-Validation  
-- Performance Metrics: Accuracy, Precision, Recall, F1-Score
+- Performance Metrics: Accuracy, Precision, Recall, F1-Score, **ROC-AUC**  
+- **AUC-ROC Curve** for evaluating classifier performance across thresholds  
+- **Precision-Recall Curve** for performance on imbalanced datasets
+
 
 ---
 
