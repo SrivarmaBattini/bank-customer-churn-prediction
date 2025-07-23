@@ -2,7 +2,7 @@
 
 This project focuses on predicting whether a customer will leave the bank (churn) based on various features using different machine learning models and data balancing techniques. Multiple versions of the notebook were used to explore and compare the impact of different preprocessing, sampling, and validation strategies.
 
- [Click here to view the dataset: `churn_modelling.csv`](./Churn_Modelling.csv)
+[Click here to view the dataset: `churn_modelling.csv`]((https://github.com/SrivarmaBattini/bank-customer-churn-prediction/blob/main/Churn_Modelling.csv))
 
 ---
 
@@ -102,9 +102,9 @@ This project focuses on predicting whether a customer will leave the bank (churn
 
 - Python, Jupyter Notebook  
 - Pandas, NumPy, Scikit-learn  
-- imbalanced-learn, XGBoost  
+- imbalanced-learn, hyperparameter tuning, models train and test  
 - Matplotlib, Seaborn
 
 ---
 
-> 📌 Each notebook serves as an experiment to evaluate how changes in preprocessing, sampling, and validation impact model performance.
+> Each notebook serves as an experiment to evaluate how changes in preprocessing, sampling, and validation impact model performance.
