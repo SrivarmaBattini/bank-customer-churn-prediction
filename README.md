@@ -1,6 +1,6 @@
 # 🏦 Bank Customer Churn Prediction using Machine Learning
 
-This project focuses on predicting whether a customer will leave the bank (churn) based on various features using different machine learning models and data balancing techniques. Multiple versions of the notebook were used to explore and compare the impact of different preprocessing, sampling, and validation strategies.
+This project focuses on predicting whether a customer will leave the bank (churn) based on various features using different machine learning models and data balancing techniques. Multiple versions of the notebook were used to explore and compare the impact of different preprocessing, sampling, and validation strategies. This project was implemented across separate notebooks, each with slight variations in preprocessing, sampling techniques, or model tuning to compare results. 
 
 [Click here to view the dataset: `Churn_Modelling.csv`](https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers)
 
@@ -101,8 +101,7 @@ This project focuses on predicting whether a customer will leave the bank (churn
 ## Technologies
 
 - Python, Jupyter Notebook  
-- Pandas, NumPy, Scikit-learn  
-- imbalanced-learn, hyperparameter tuning, models train and test  
+- Pandas, NumPy, Scikit-learn, imbalanced-learn  
 - Matplotlib, Seaborn
 
 ---
